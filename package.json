@@ -1,0 +1,24 @@
+{
+  "name": "random-quotes-nico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolujan1610/random-quotes-nico.git"
+  },
+  "keywords": [],
+  "author": "Nicolás Lujan <nico512lujan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolujan1610/random-quotes-nico/issues"
+  },
+  "homepage": "https://github.com/nicolujan1610/random-quotes-nico#readme",
+  "bin": {
+    "randon-quotes-nico" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
